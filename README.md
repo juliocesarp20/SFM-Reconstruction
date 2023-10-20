@@ -4,3 +4,4 @@ Project for the Computer Vision class. Takes a set of images and tries to render
 TODO:
 Fix BA
 Increase accuracy on matching
+Improve performance
